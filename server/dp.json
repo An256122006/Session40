@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": "5616",
+      "name": "điện thoại",
+      "status": "active",
+      "description": "Sản phẩm công nghệ"
+    }
+  ],
+  "products": [
+    {
+      "id": "5932",
+      "code": "ddd",
+      "name": "anspiderman",
+      "category": "5616",
+      "price": "0",
+      "image": "https://res.cloudinary.com/dinhtrongan/image/upload/v1759332155/ryzkbrbiyyalkpd0g0g4.jpg",
+      "status": "active"
+    }
+  ]
+}
